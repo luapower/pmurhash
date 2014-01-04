@@ -1,6 +1,7 @@
 ---
-project: pmurhash
-tagline: murmurhash3 C implementation
+project:  pmurhash
+tagline:  murmurhash3 C implementation
+category: Hashing
 ---
 
 v1.0 | LuaJIT 2
