@@ -4,8 +4,6 @@ tagline:  murmurhash3 C implementation
 category: Hashing
 ---
 
-v1.0 | LuaJIT 2
-
 ## `local pmurhash = require'pmurhash'`
 
 ---------------------------------------------
