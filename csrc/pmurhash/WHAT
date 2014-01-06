@@ -1,1 +1,3 @@
-MurmurHash3 ANSI C implementation by Shane Day from http://code.google.com/p/smhasher/ (MIT license)
+pmurhash r146 from http://code.google.com/p/smhasher/ (MIT license)
+
+MurmurHash3 ANSI C implementation by Shane Day.
