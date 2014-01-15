@@ -1,7 +1,6 @@
 ---
 project:  pmurhash
 tagline:  murmurhash3 C implementation
-category: Hashing
 ---
 
 ## `local pmurhash = require'pmurhash'`
