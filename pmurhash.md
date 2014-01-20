@@ -1,6 +1,6 @@
 ---
-project:  pmurhash
-tagline:  murmurhash3 C implementation
+project: pmurhash
+tagline: murmurhash3 in C
 ---
 
 ## `local pmurhash = require'pmurhash'`
