@@ -10,5 +10,4 @@ tagline: murmurhash3 in C
 `pmurhash(cdata, [size][, seed]) -> hash`
 ---------------------------------------------
 
-----
-*See also:* [murmurhash3](murmurhash3.html)
+See also: [murmurhash3](murmurhash3.html)
