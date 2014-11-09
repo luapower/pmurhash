@@ -1,1 +1,2 @@
-gcc -arch i386 -O2 PMurHash.c -shared -install_name @loader_path/libpmurhash.dylib -o ../../bin/osx32/libpmurhash.dylib
+P=osx32 C="-arch i386" L="-arch i386 -install_name @loader_path/libpmurhash.dylib" \
+	D=libpmurhash.dylib A=libpmurhash.a ./build.sh

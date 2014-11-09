@@ -1,1 +1,1 @@
-gcc -O2 -s -static-libgcc -fPIC PMurHash.c -shared -o ../../bin/linux64/libpmurhash.so
+P=linux64 C=-fPIC L="-s -static-libgcc" D=libpmurhash.so A=libpmurhash.a ./build.sh

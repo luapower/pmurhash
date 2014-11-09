@@ -1,1 +1,1 @@
-gcc -O2 -s -static-libgcc PMurHash.c -shared -o ../../bin/linux32/libpmurhash.so
+P=linux32 L="-s -static-libgcc" D=libpmurhash.so A=libpmurhash.a ./build.sh

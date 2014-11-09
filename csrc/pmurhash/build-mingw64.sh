@@ -1,1 +1,1 @@
-gcc -O2 -s -static-libgcc PMurHash.c -shared -o ../../bin/mingw64/pmurhash.dll
+P=mingw64 L="-s -static-libgcc" D=pmurhash.dll A=pmurhash.a ./build.sh
