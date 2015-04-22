@@ -9,5 +9,3 @@ tagline: murmurhash3 in C
 `pmurhash(s, [size][, seed]) -> hash`
 `pmurhash(cdata, [size][, seed]) -> hash`
 ---------------------------------------------
-
-See also: [murmurhash3]
