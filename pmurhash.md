@@ -1,5 +1,4 @@
 ---
-project: pmurhash
 tagline: murmurhash3 in C
 ---
 
